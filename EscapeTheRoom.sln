@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeTheRoom", "EscapeTheRoom.csproj", "{D24E5AEF-6EDA-18BA-A815-7AA8828B909B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeTheRoom.Editor", "EscapeTheRoom.Editor.csproj", "{F8E723CA-0EE5-E9C9-9A41-DE892D6ABFD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24E5AEF-6EDA-18BA-A815-7AA8828B909B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24E5AEF-6EDA-18BA-A815-7AA8828B909B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24E5AEF-6EDA-18BA-A815-7AA8828B909B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24E5AEF-6EDA-18BA-A815-7AA8828B909B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E723CA-0EE5-E9C9-9A41-DE892D6ABFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E723CA-0EE5-E9C9-9A41-DE892D6ABFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E723CA-0EE5-E9C9-9A41-DE892D6ABFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E723CA-0EE5-E9C9-9A41-DE892D6ABFD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
